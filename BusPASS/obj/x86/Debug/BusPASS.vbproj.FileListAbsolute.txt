@@ -1,0 +1,12 @@
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.vbprojResolveAssemblyReference.cache
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.Resources.resources
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.vbproj.GenerateResource.Cache
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.exe
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.xml
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.pdb
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\bin\Debug\BusPASS.exe.config
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\bin\Debug\BusPASS.exe
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\bin\Debug\BusPASS.pdb
+c:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\bin\Debug\BusPASS.xml
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.LoginForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\BusPASS\BusPASS\obj\x86\Debug\BusPASS.RouteManagementForm.resources

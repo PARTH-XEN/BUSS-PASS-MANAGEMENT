@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BusPASS
+</name>
+</assembly>
+<members>
+<member name="T:BusPASS.DBConnection">
+	<summary>
+ Database connection helper module for Bus Pass Management System
+ Service-Based Database (.mdf) connection handler
+ </summary>
+</member>
+</members>
+</doc>
